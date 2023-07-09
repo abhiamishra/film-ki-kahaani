@@ -6,15 +6,15 @@ const CONFIG = {
     role: "film critic (amateur) and poetry lover",
     bio: "i love watching and analyzing films and poetry",
     email: "",
-    // linkedin: "morethanmin",
-    // github: "morethanmin",
-    // instagram: "",
+    linkedin: "morethanmin",
+    github: "morethanmin",
+    instagram: "",
   },
   projects: [
-    // {
-    //   name: `morethan-log`,
-    //   href: "https://github.com/morethanmin/morethan-log",
-    // },
+    {
+      name: `morethan-log`,
+      href: "https://github.com/morethanmin/morethan-log",
+    },
   ],
   // blog setting (required)
   blog: {
