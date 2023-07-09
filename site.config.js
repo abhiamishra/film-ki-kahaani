@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "abhishek a. mishra",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/movie.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "film critic (amateur) and poetry lover",
     bio: "i love watching and analyzing films and poetry",
     email: "",
